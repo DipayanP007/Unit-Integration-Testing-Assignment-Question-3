@@ -1,0 +1,7 @@
+.bsp
+.idea
+target/
+*.log
+*.iml
+*.ipr
+*.iws
